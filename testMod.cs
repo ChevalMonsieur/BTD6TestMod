@@ -21,5 +21,6 @@ public class testMod : BloonsTD6Mod
     {
         base.OnRoundStart();
         Debug.WriteLine("Bruh round started");
+        // just code to test if the mod is working
     }
 }
