@@ -3,7 +3,7 @@ namespace testMod;
 public static class ModHelperData
 {
     public const string WorksOnVersion = "44.0";
-    public const string Version = "0.0.1";
+    public const string Version = "0.0.2";
     public const string Name = "testMod";
 
     public const string Description = "Testing";
